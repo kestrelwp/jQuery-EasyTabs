@@ -2,7 +2,7 @@
   "name": "EasyTabs",
   "title": "jQuery EasyTabs - Tabs with(out) style.",
   "description": "EasyTabs is a lightweight jQuery plugin to provide full tab functionality, while leaving the styling up to you.",
-  "version": "3.2.0",
+  "version": "3.2.2",
   "keywords": [
     "tabs", "cycle", "gallery"
   ],
