@@ -1,3 +1,5 @@
 *.swp
 imports/*
 /.idea
+/.DS_Store
+/node_modules
